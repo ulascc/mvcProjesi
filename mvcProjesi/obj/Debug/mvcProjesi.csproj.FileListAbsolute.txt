@@ -77,3 +77,16 @@ C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\obj\Debug\mvcProjesi.csproj.Cor
 C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\obj\Debug\mvcProjesi.csproj.CopyComplete
 C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\obj\Debug\mvcProjesi.dll
 C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\obj\Debug\mvcProjesi.pdb
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\BusinessLayer.dll
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\DataAccessLayer.dll
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityLayer.dll
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityFramework.dll
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\BusinessLayer.pdb
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\BusinessLayer.dll.config
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\DataAccessLayer.pdb
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\DataAccessLayer.dll.config
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityLayer.pdb
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityLayer.dll.config
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityFramework.xml
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ulas\source\repos\mvcProjesi\mvcProjesi\bin\EntityFramework.SqlServer.xml
